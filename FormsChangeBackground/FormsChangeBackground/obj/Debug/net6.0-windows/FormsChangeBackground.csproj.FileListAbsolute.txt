@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\bin\Debug\net6.0-windows\FormsChangeBackground.exe
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\bin\Debug\net6.0-windows\FormsChangeBackground.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\bin\Debug\net6.0-windows\FormsChangeBackground.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\bin\Debug\net6.0-windows\FormsChangeBackground.dll
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\bin\Debug\net6.0-windows\FormsChangeBackground.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.dll
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\refint\FormsChangeBackground.dll
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\FormsChangeBackground.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\FormsChangeBackground\FormsChangeBackground\obj\Debug\net6.0-windows\ref\FormsChangeBackground.dll
