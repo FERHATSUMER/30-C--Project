@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\bin\Debug\net6.0-windows\ButtonTextBoxListBox.exe
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\bin\Debug\net6.0-windows\ButtonTextBoxListBox.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\bin\Debug\net6.0-windows\ButtonTextBoxListBox.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\bin\Debug\net6.0-windows\ButtonTextBoxListBox.dll
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\bin\Debug\net6.0-windows\ButtonTextBoxListBox.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.dll
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\refint\ButtonTextBoxListBox.dll
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ButtonTextBoxListBox.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\ButtonTextBoxListBox\ButtonTextBoxListBox\obj\Debug\net6.0-windows\ref\ButtonTextBoxListBox.dll
