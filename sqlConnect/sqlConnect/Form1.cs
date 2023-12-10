@@ -91,6 +91,7 @@ namespace sqlConnect
             textBox4.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["telno"].ToString();
 
             con.Close();
+
         }
     }
 }
