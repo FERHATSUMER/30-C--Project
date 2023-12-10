@@ -88,6 +88,7 @@ namespace sqlConnect
             textBox1.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["id"].ToString();
             textBox2.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["isim"].ToString();
             textBox3.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["soyisim"].ToString();
+            textBox4.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["telno"].ToString();
 
             con.Close();
         }
