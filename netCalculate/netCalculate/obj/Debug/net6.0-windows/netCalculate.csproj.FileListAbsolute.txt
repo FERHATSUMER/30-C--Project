@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\bin\Debug\net6.0-windows\netCalculate.exe
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\bin\Debug\net6.0-windows\netCalculate.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\bin\Debug\net6.0-windows\netCalculate.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\bin\Debug\net6.0-windows\netCalculate.dll
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\bin\Debug\net6.0-windows\netCalculate.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.dll
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\refint\netCalculate.dll
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\netCalculate.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\netCalculate\netCalculate\obj\Debug\net6.0-windows\ref\netCalculate.dll
