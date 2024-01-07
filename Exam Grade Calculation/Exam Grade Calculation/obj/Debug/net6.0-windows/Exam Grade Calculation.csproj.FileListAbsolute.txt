@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\bin\Debug\net6.0-windows\Exam Grade Calculation.exe
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\bin\Debug\net6.0-windows\Exam Grade Calculation.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\bin\Debug\net6.0-windows\Exam Grade Calculation.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\bin\Debug\net6.0-windows\Exam Grade Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\bin\Debug\net6.0-windows\Exam Grade Calculation.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam_Grade_Calculation.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\refint\Exam Grade Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\Exam Grade Calculation.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Exam Grade Calculation\Exam Grade Calculation\obj\Debug\net6.0-windows\ref\Exam Grade Calculation.dll
