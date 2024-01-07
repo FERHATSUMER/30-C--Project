@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\bin\Debug\net6.0-windows\Triangle Area Calculation.exe
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\bin\Debug\net6.0-windows\Triangle Area Calculation.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\bin\Debug\net6.0-windows\Triangle Area Calculation.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\bin\Debug\net6.0-windows\Triangle Area Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\bin\Debug\net6.0-windows\Triangle Area Calculation.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle_Area_Calculation.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\refint\Triangle Area Calculation.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\Triangle Area Calculation.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Triangle Area Calculation\Triangle Area Calculation\obj\Debug\net6.0-windows\ref\Triangle Area Calculation.dll

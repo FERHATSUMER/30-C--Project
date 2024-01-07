@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Triangle Area Calculation/1.0.0": {
+        "runtime": {
+          "Triangle Area Calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triangle Area Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

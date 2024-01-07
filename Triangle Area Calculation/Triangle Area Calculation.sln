@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Area Calculation", "Triangle Area Calculation\Triangle Area Calculation.csproj", "{C40CD35A-C003-4C13-9BA7-57E927F2A871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40CD35A-C003-4C13-9BA7-57E927F2A871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40CD35A-C003-4C13-9BA7-57E927F2A871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40CD35A-C003-4C13-9BA7-57E927F2A871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40CD35A-C003-4C13-9BA7-57E927F2A871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2180990-EFBC-4AEB-AC44-349114E0EE13}
+	EndGlobalSection
+EndGlobal
