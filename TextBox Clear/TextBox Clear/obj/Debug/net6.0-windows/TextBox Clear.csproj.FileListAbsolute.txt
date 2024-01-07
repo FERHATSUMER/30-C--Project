@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\bin\Debug\net6.0-windows\TextBox Clear.exe
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\bin\Debug\net6.0-windows\TextBox Clear.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\bin\Debug\net6.0-windows\TextBox Clear.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\bin\Debug\net6.0-windows\TextBox Clear.dll
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\bin\Debug\net6.0-windows\TextBox Clear.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox_Clear.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.dll
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\refint\TextBox Clear.dll
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\TextBox Clear.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\TextBox Clear\TextBox Clear\obj\Debug\net6.0-windows\ref\TextBox Clear.dll
