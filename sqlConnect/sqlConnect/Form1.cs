@@ -23,10 +23,10 @@ namespace sqlConnect
         void griddoldur()
         {
             con = new SqlConnection("Server=DESKTOP-JTLF5M6; Initial Catalog=FerhatSumer;Integrated Security=SSPI");
-            da = new SqlDataAdapter("Select *From Personel", con);
+            da = new SqlDataAdapter("Select * From dbo.PERSONEL1", con);
             ds = new DataSet();
             con.Open();
-            da.Fill(ds, "Personel");
+            da.Fill(ds, "PERSONEL1");
             dataGridView1.DataSource = ds.Tables["Personel"];
             con.Close();
         }
@@ -43,13 +43,12 @@ namespace sqlConnect
             cmd = new SqlCommand();
             con.Open();
             cmd.Connection = con;
-            cmd.CommandText = "INSERT INTO Personel(id, isim, soyisim, telno) VALUES (@id, @isim, @soyisim, @telno)";
-            cmd.Parameters.AddWithValue("@id", int.Parse(textBox1.Text));
-            cmd.Parameters.AddWithValue("@isim", textBox2.Text);
-            cmd.Parameters.AddWithValue("@soyisim", textBox3.Text);
-            cmd.Parameters.AddWithValue("@telno", textBox4.Text);
+            cmd.CommandText = "INSERT INTO PERSONEL1(PERSONEL_ID, MARKA, MODEL, KM) VALUES (@PERSONEL_ID, @MARKA, @MODEL, @KM)";
+            cmd.Parameters.AddWithValue("@PERSONEL_ID", int.Parse(textBox1.Text));
+            cmd.Parameters.AddWithValue("@MARKA", textBox2.Text);
+            cmd.Parameters.AddWithValue("@MODEL", textBox3.Text);
+            cmd.Parameters.AddWithValue("@KM", int.Parse(textBox4.Text));
             cmd.ExecuteNonQuery();
-            con.Close();
             griddoldur();
         }
 
@@ -58,11 +57,11 @@ namespace sqlConnect
             cmd = new SqlCommand();
             con.Open();
             cmd.Connection = con;
-            cmd.CommandText = "UPDATE Personel SET isim=@isim, soyisim=@soyisim, telno=@telno WHERE id=@id";
-            cmd.Parameters.AddWithValue("@id", int.Parse(textBox1.Text));
-            cmd.Parameters.AddWithValue("@isim", textBox2.Text);
-            cmd.Parameters.AddWithValue("@soyisim", textBox3.Text);
-            cmd.Parameters.AddWithValue("@telno", textBox4.Text);
+            cmd.CommandText = "UPDATE PERSONEL1 SET marka=@MARKA, model=@MODEL, km=@KM WHERE id=@PERSONEL_ID";
+            cmd.Parameters.AddWithValue("@PERSONEL_ID", int.Parse(textBox1.Text));
+            cmd.Parameters.AddWithValue("@MARKA", textBox2.Text);
+            cmd.Parameters.AddWithValue("@MODEL", textBox3.Text);
+            cmd.Parameters.AddWithValue("@KM", textBox4.Text);
             cmd.ExecuteNonQuery();
             con.Close();
             griddoldur();
@@ -80,15 +79,15 @@ namespace sqlConnect
             cmd = new SqlCommand();
             con.Open();
             cmd.Connection = con;
-            cmd.CommandText = "SELECT * FROM Personel WHERE id="+textBox1.Text;
+            cmd.CommandText = "SELECT * FROM PERSONEL1 WHERE PERSONEL_ID6=" + textBox1.Text;
 
 
-            da.Fill(ds, "Personel");
+            da.Fill(ds, "PERSONEL1");
 
-            textBox1.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["id"].ToString();
-            textBox2.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["isim"].ToString();
-            textBox3.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["soyisim"].ToString();
-            textBox4.Text = ds.Tables["Personel"].Rows[Convert.ToInt32(textBox1.Text)]["telno"].ToString();
+            textBox1.Text = ds.Tables["PERSONEL1"].Rows[Convert.ToInt32(textBox1.Text)]["PERSONEL_ID"].ToString();
+            textBox2.Text = ds.Tables["PERSONEL1"].Rows[Convert.ToInt32(textBox1.Text)]["MARKA"].ToString();
+            textBox3.Text = ds.Tables["PERSONEL1"].Rows[Convert.ToInt32(textBox1.Text)]["MODEL"].ToString();
+            textBox4.Text = ds.Tables["PERSONEL1"].Rows[Convert.ToInt32(textBox1.Text)]["KM"].ToString();
 
             con.Close();
 

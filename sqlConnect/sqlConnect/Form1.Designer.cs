@@ -57,27 +57,27 @@
             label2.AutoSize = true;
             label2.Location = new Point(269, 101);
             label2.Name = "label2";
-            label2.Size = new Size(36, 20);
+            label2.Size = new Size(50, 20);
             label2.TabIndex = 1;
-            label2.Text = "isim";
+            label2.Text = "Marka";
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Location = new Point(269, 147);
             label3.Name = "label3";
-            label3.Size = new Size(58, 20);
+            label3.Size = new Size(52, 20);
             label3.TabIndex = 2;
-            label3.Text = "soyisim";
+            label3.Text = "Model";
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Location = new Point(269, 192);
             label4.Name = "label4";
-            label4.Size = new Size(43, 20);
+            label4.Size = new Size(31, 20);
             label4.TabIndex = 3;
-            label4.Text = "telno";
+            label4.Text = "Km";
             // 
             // textBox1
             // 
