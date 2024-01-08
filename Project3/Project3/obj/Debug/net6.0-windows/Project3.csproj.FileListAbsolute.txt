@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\bin\Debug\net6.0-windows\Project3.exe
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\bin\Debug\net6.0-windows\Project3.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\bin\Debug\net6.0-windows\Project3.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\bin\Debug\net6.0-windows\Project3.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\bin\Debug\net6.0-windows\Project3.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\refint\Project3.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\Project3.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Project3\Project3\obj\Debug\net6.0-windows\ref\Project3.dll
