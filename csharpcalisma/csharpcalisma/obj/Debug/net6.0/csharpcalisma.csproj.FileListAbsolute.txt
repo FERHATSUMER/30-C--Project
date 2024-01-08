@@ -1,0 +1,14 @@
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\bin\Debug\net6.0\csharpcalisma.exe
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\bin\Debug\net6.0\csharpcalisma.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\bin\Debug\net6.0\csharpcalisma.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\bin\Debug\net6.0\csharpcalisma.dll
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\bin\Debug\net6.0\csharpcalisma.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.dll
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\refint\csharpcalisma.dll
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\csharpcalisma.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\csharpcalisma\csharpcalisma\obj\Debug\net6.0\ref\csharpcalisma.dll
