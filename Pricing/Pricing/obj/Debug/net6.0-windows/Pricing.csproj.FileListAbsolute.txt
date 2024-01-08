@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\bin\Debug\net6.0-windows\Pricing.exe
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\bin\Debug\net6.0-windows\Pricing.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\bin\Debug\net6.0-windows\Pricing.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\bin\Debug\net6.0-windows\Pricing.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\bin\Debug\net6.0-windows\Pricing.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\refint\Pricing.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\Pricing.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Pricing\Pricing\obj\Debug\net6.0-windows\ref\Pricing.dll
