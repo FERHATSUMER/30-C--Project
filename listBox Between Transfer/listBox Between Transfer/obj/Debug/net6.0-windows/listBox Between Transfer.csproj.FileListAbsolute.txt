@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\bin\Debug\net6.0-windows\listBox Between Transfer.exe
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\bin\Debug\net6.0-windows\listBox Between Transfer.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\bin\Debug\net6.0-windows\listBox Between Transfer.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\bin\Debug\net6.0-windows\listBox Between Transfer.dll
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\bin\Debug\net6.0-windows\listBox Between Transfer.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox_Between_Transfer.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.dll
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\refint\listBox Between Transfer.dll
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\listBox Between Transfer.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\listBox Between Transfer\listBox Between Transfer\obj\Debug\net6.0-windows\ref\listBox Between Transfer.dll
