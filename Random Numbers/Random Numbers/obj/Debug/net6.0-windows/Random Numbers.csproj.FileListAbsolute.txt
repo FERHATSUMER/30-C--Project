@@ -1,0 +1,16 @@
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\bin\Debug\net6.0-windows\Random Numbers.exe
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\bin\Debug\net6.0-windows\Random Numbers.deps.json
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\bin\Debug\net6.0-windows\Random Numbers.runtimeconfig.json
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\bin\Debug\net6.0-windows\Random Numbers.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\bin\Debug\net6.0-windows\Random Numbers.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random_Numbers.Form1.resources
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\refint\Random Numbers.dll
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.pdb
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\Random Numbers.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\30-C--Project\Random Numbers\Random Numbers\obj\Debug\net6.0-windows\ref\Random Numbers.dll
